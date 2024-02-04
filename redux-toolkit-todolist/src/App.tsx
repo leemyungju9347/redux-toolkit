@@ -9,6 +9,9 @@ function App() {
       <header>
         <h1>To Do List 📓</h1>
         <h2>test!</h2>
+        <h2>test2</h2>
+
+        
       </header>
       <AddTodo />
       <TodoLIst />
