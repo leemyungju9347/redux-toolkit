@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <header>
         <h1>To Do List 📓</h1>
+        <h2>test!</h2>
       </header>
       <AddTodo />
       <TodoLIst />
